@@ -1,0 +1,20 @@
+To run the program use the following command:
+
+python Smear_Detection.py <directory_path>/
+
+Example:
+python Smear_Detection.py ./sample_drive/cam_0/
+
+One can also run for all camera angles using the batch script.
+
+Commands in the batch script:
+
+python Smear_Detection.py ./sample_drive/cam_0/
+python Smear_Detection.py ./sample_drive/cam_1/
+python Smear_Detection.py ./sample_drive/cam_2/
+python Smear_Detection.py ./sample_drive/cam_3/
+python Smear_Detection.py ./sample_drive/cam_5/
+
+
+Note:
+Make sure the path is modified in the batch script.
